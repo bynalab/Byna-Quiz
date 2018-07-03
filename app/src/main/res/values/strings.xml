@@ -1,0 +1,92 @@
+<resources>
+
+    <string name="app_name">BynaQuiz</string>
+    <string name="submit">Submit</string>
+
+    <!-- PHP Questions -->
+    <string name="phpq1">What year was PHP created?</string>
+    <string name="phpq1o1">2004</string>
+    <string name="phpq1o2">1994</string>
+    <string name="phpoq1o3">1984</string>
+
+    <string name="phpq2">What is the meaning of PHP?</string>
+    <string name="phpq2o1">Pro Hypertext Program</string>
+    <string name="phpq2o2">Pre Hypertext Processor</string>
+    <string name="phpq2o3">Hypertext Preprocessor</string>
+
+    <string name="phpq3">Who invented PHP?</string>
+    <string name="phpq3o1">Charles Barbage</string>
+    <string name="phpq3o2">Bynalab</string>
+    <string name="phpq3o3">Rasmus Lerdorf</string>
+
+    <string name="phpq4">Which of this is use to print out something on Java?</string>
+    <string name="phpq4o1">console.log</string>
+    <string name="phpq4o2">echo</string>
+    <string name="phpq4o3">printf</string>
+
+    <!-- Java Questions -->
+    <string name="javaq1">What year was Java created?</string>
+    <string name="javaq1o1">1993</string>
+    <string name="javaq1o2">1994</string>
+    <string name="javaq1o3">1995</string>
+
+    <string name="javaq2">What type of Programming is Java?</string>
+    <string name="javaq2o1">Scripting</string>
+    <string name="javaq2o2">Makeup Language</string>
+    <string name="javaq2o3">Object Oriented Language</string>
+
+    <string name="javaq3">Who invented Java?</string>
+    <string name="javaq3o1">James Gosling</string>
+    <string name="javaq3o2">Bynalab</string>
+    <string name="javaq3o3">Paulo Dybala</string>
+
+    <string name="javaq4">Which of this is use to print out something on Java?</string>
+    <string name="javaq4o1">console.log</string>
+    <string name="javaq4o2">System.console.out</string>
+    <string name="javaq4o3">printf</string>
+
+    <!-- Python Questions -->
+    <string name="pyq1">What year was Python created?</string>
+    <string name="pyq1o1">1991</string>
+    <string name="pyq1o2">2009</string>
+    <string name="pyq1o3">1984</string>
+
+    <string name="pyq2">What type of Programming is Java?</string>
+    <string name="pyq2o1">Intermediate Level Language</string>
+    <string name="pyq2o2">High Level Language</string>
+    <string name="pyq2o3">Low Level Language</string>
+
+    <string name="pyq3">Who invented Python?</string>
+    <string name="pyq3o1">John Python</string>
+    <string name="pyq3o2">Guido van Rossum</string>
+    <string name="pyq3o3">Bynalab</string>
+
+    <string name="pyq4">Which of this is use to print out something on Python?</string>
+    <string name="pyq4o1">printf</string>
+    <string name="pyq4o2">html()</string>
+    <string name="pyq4o3">print</string>
+
+    <!-- Javascript Questions -->
+    <string name="jscq1">What year was Javascript created?</string>
+    <string name="jscq1o1">2004</string>
+    <string name="jscq1o2">1995</string>
+    <string name="jscq1o3">1984</string>
+
+    <string name="jscq2">One of the functions of Javascript is to?</string>
+    <string name="jscq2o1">Design web pages</string>
+    <string name="jscq2o2">Add functionality</string>
+    <string name="jscq2o3">Add Client-side behaviour to html</string>
+
+    <string name="jscq3">Who invented Javascript?</string>
+    <string name="jscq3o1">Brendan Eich</string>
+    <string name="jscq3o2">Bynalab</string>
+    <string name="jscq3o3">Cosmos JS</string>
+
+    <string name="jscq4">Which of this is use to print out something on Javascript?</string>
+    <string name="jscq4o1">console.log</string>
+    <string name="jscq4o2">console.write</string>
+    <string name="jscq4o3">console.print</string>
+
+
+
+</resources>
